@@ -1,5 +1,3 @@
-https://qa0208.atlassian.net/browse/Q136-13
-https://qa0208.atlassian.net/browse/Q136-18
-https://qa0208.atlassian.net/browse/Q136-169
-https://qa0208.atlassian.net/browse/Q136-186
-https://qa0208.atlassian.net/browse/Q136-188
+C:\Users\1\Documents\GitHub\new_repository_for_homework_20\MyWork\bugs.txt
+C:\Users\1\Documents\GitHub\new_repository_for_homework_20\MyWork\checklist.txt
+C:\Users\1\Documents\GitHub\new_repository_for_homework_20\MyWork\test_cases.txt
